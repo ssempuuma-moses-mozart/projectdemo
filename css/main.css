@@ -1,0 +1,42 @@
+.head{
+    text-align: center;
+}
+.interest{
+
+   
+
+}
+.inter{
+    text-align: center;
+    color: green;
+}
+.section{
+
+    
+}
+.pic{
+    text-align: right;
+    margin-right: 0.2em;
+}
+.intscale{
+    text-align: center;
+    color: green;
+}
+.form-control form-control-lg{
+    text-align: center;
+}
+table,
+      th,
+      td {
+        padding: 10px;
+        border: 1px solid black;
+        border-collapse: collapse;
+        text-align: center;
+        width: 100%;
+
+        margin-right: 1em;
+        
+      }
+    .text{
+        text-align: center;
+    }
